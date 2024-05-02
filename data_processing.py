@@ -1,0 +1,1 @@
+print "All the data which is rewuired for fraud detection analysis"
